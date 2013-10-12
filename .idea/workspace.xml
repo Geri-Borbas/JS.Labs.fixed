@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31bf338f-af4b-479a-b3d4-8f997d11057e" name="Default" comment="" />
+    <list default="true" id="31bf338f-af4b-479a-b3d4-8f997d11057e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/versions/current/index.html" afterPath="$PROJECT_DIR$/versions/current/index.html" />
+    </list>
     <ignored path="labs!fixed.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="31bf338f-af4b-479a-b3d4-8f997d11057e" time="1381604570226" ignored="false" />
-    <file path="/index.html" changelist="31bf338f-af4b-479a-b3d4-8f997d11057e" time="1381604637090" ignored="false" />
+    <file path="/index.html" changelist="31bf338f-af4b-479a-b3d4-8f997d11057e" time="1381604820890" ignored="false" />
     <file path="/README.md" changelist="31bf338f-af4b-479a-b3d4-8f997d11057e" time="1381604628677" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +46,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/versions/0.0.1/README.md" />
-        <option value="$PROJECT_DIR$/versions/current/index.html" />
         <option value="$PROJECT_DIR$/versions/0.0.1/index.html" />
+        <option value="$PROJECT_DIR$/versions/current/index.html" />
       </list>
     </option>
   </component>
@@ -278,7 +280,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/versions/current/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="26" selection-start="32" selection-end="39" vertical-scroll-proportion="0.031152649">
+        <state line="13" column="74" selection-start="1314" selection-end="1314" vertical-scroll-proportion="0.2024922">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="14" selection-start="542" selection-end="542" vertical-scroll-proportion="0.06542056">
           <folding />
         </state>
       </provider>
